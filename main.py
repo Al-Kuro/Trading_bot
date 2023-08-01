@@ -5,6 +5,7 @@ import telebot
 import matplotlib.pyplot as plt
 import numpy as np
 
+# Код из ChatGPT
 # Настройки API Bybit
 API_KEY = 'YOUR_BYBIT_API_KEY'
 API_SECRET = 'YOUR_BYBIT_API_SECRET'
